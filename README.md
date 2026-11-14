@@ -33,7 +33,6 @@ I'm a student developer interested in building intelligent software, AI-powered 
 - **Email:** [papikyanvahagn666@gmail.com](mailto:papikyanvahagn666@gmail.com)
 - **Phone:** +374 55 190685
 - **GitHub:** [@VPwillwreckyou](https://github.com/VPwillwreckyou)
-- **LinkedIn:** [Vahagn Papikyan](https://www.linkedin.com/in/vahagn-papikyan-224a80390/)
 
 ---
 
