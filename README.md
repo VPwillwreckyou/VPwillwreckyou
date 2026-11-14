@@ -10,20 +10,20 @@ I'm a student developer interested in building intelligent software, AI-powered 
 
 | Project | Description | Status |
 |---|---|---|
-| [Momentum](https://github.com/VPwillwreckyou/MOMENTUM) | Offline-first personal goal command center (web, desktop & mobile) | In development |
-| [Millida Launcher](https://github.com/VPwillwreckyou/Millida-VP-Modpack-AI) | Minecraft launcher with AI-powered modpack management (Tauri + Rust) | Completed |
-| [Mamba AI](https://github.com/VPwillwreckyou/mamba-ai) | Personal AI assistant for Windows (local Ollama + cloud providers) | Paused |
-| [Manhunt](https://github.com/VPwillwreckyou/manhunt) | Flutter-based application | In planning |
-| [Engineering Bridge](https://github.com/VPwillwreckyou/engineering-bridge) | Local integration: ChatGPT ↔ OpenCode via MCP tools | Completed |
-| [Samba & Mamba](https://github.com/VPwillwreckyou/samba-mamba) | 3D Three.js landing + React storefront | Completed |
-| [SRM — Social Republic of Midashes](https://github.com/VPwillwreckyou/srm-midashes) | Community website | Completed |
+| [Momentum](https://github.com/VPwillwreckyou/MOMENTUM) | Offline-first personal goal command center (web) | In development |
+| [Millida Launcher](https://github.com/VPwillwreckyou/Millida-VP-Modpack-AI) | Minecraft web page with AI-powered modpack management | Completed |
+| [Mamba AI](https://github.com/VPwillwreckyou/mamba-ai) | Personal AI assistant web page (local Ollama + cloud providers) | Paused |
+| [Manhunt](https://github.com/VPwillwreckyou/manhunt) | Web page (Flutter) | In planning |
+| [Engineering Bridge](https://github.com/VPwillwreckyou/engineering-bridge) | Web page integration: ChatGPT ↔ OpenCode via MCP tools | Completed |
+| [Samba & Mamba](https://github.com/VPwillwreckyou/samba-mamba) | 3D Three.js web landing page + React storefront | Completed |
+| [SRM — Social Republic of Midashes](https://github.com/VPwillwreckyou/srm-midashes) | Community web page | Completed |
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Java, Python, Rust, JavaScript, TypeScript, C++, C#, HTML, Assembly  
-**Frameworks & Tools:** React, Flutter, FastAPI, Three.js, PySide6, Git, MCP  
+**Frameworks & Tools:** React, FastAPI, Three.js, HTML/CSS/JS, Git, MCP  
 **AI / ML:** AI APIs, Local AI models (Ollama), OpenCode
 
 ---
@@ -39,7 +39,7 @@ I'm a student developer interested in building intelligent software, AI-powered 
 
 ## 💼 Services
 
-Open to building an app or website for you.
+Open to building a web page for you.
 
 | Option | Price (AMD) |
 |---|---|
