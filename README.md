@@ -13,7 +13,7 @@ I'm a student developer interested in building intelligent software, AI-powered 
 | [Momentum](https://github.com/VPwillwreckyou/MOMENTUM) | Offline-first personal goal command center (web) | In development |
 | [Millida Launcher](https://github.com/VPwillwreckyou/Millida-VP-Modpack-AI) | Minecraft web page with AI-powered modpack management | Completed |
 | [Mamba AI](https://github.com/VPwillwreckyou/mamba-ai) | Personal AI assistant web page (local Ollama + cloud providers) | Paused |
-| [Manhunt](https://github.com/VPwillwreckyou/manhunt) | Web page (Flutter) | In planning |
+| [Manhunt](https://github.com/VPwillwreckyou/manhunt) | A cross-platform mobile app built with Flutter for Android and iOS. | In planning |
 | [Engineering Bridge](https://github.com/VPwillwreckyou/engineering-bridge) | Web page integration: ChatGPT ↔ OpenCode via MCP tools | Completed |
 | [Samba & Mamba](https://github.com/VPwillwreckyou/samba-mamba) | 3D Three.js web landing page + React storefront | Completed |
 | [SRM — Social Republic of Midashes](https://github.com/VPwillwreckyou/srm-midashes) | Community web page | Completed |
